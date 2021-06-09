@@ -2,4 +2,4 @@
 
 <h2>React native add homes with formik to mongodb</h2>
 
-![](home=listing.gif)
+![](home-listing.gif)
